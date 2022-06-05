@@ -1,0 +1,3 @@
+C:/Users/micla/Desktop/work/c/db/cmake-build-debug/CMakeFiles/db.dir
+C:/Users/micla/Desktop/work/c/db/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micla/Desktop/work/c/db/cmake-build-debug/CMakeFiles/rebuild_cache.dir
